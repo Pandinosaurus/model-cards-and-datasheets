@@ -113,6 +113,7 @@ A collection of machine learning model cards and datasheets.
 * [Claude Opus 4.7 System Card, Anthropic][127]
 * [Claude Fable 5 and Claude Mythos 5 System Card, Anthropic][128]
 * [Claude Sonnet 5 System Card, Anthropic][129]
+* [Inkling, Thinking Machines Lab][130]
 
 ## Datasheets
 * [Datasheets for Datasets][8]
@@ -263,3 +264,4 @@ A collection of machine learning model cards and datasheets.
 [127]: https://anthropic.com/claude-opus-4-7-system-card
 [128]: https://www-cdn.anthropic.com/d00db56fa754a1b115b6dd7cb2e3c342ee809620.pdf
 [129]: https://www-cdn.anthropic.com/9e6a1044980d8c4ed85669faf9c2a8342e2e9f1e/Claude%20Sonnet%205%20System%20Card.pdf
+[130]: https://thinkingmachines.ai/model-card/inkling/
